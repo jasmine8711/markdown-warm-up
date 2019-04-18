@@ -14,9 +14,9 @@ Let's have a look at our website!
 
 # 4.Why does this website need an update / complete makeover ?
 ---
-1. Too messy.
+1. Extremely _messy_.
 1. Ugly color choice. 
-Red and Green?
+*Red* and Green?
 ![websitepic2](4.png)
 1. Font size is too small.
 ![websitepic2](3.png)
